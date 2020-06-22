@@ -1,2 +1,2 @@
 # InfusionPumpPlugin
-conducting using SWT, testing with SWTBot
+An example application conducting with SWT, testing with SWTBot
